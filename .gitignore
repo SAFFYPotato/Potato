@@ -1,5 +1,5 @@
 /venv
 .idea/
-slackBasicInfomation.json
+data/slackBasicInfomation.json
 requirements.txt
 __pycache__/
